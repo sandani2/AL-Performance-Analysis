@@ -1,6 +1,6 @@
 
 # AL-Performance-Analysis
-This dashboard was developed as an individual extension of a group research project on Sri Lankan GCE A/L 2020 student performance analysis. By refering GroupReport.pdf under 2020_AL folder can gain knowledge about the project. 
+This dashboard was developed as an individual extension of a group research project on Sri Lankan GCE A/L 2020 student performance analysis. By refering GroupReport.pdf can gain knowledge about the project. 
 # GCE A/L 2020 Performance Analytics Dashboard
 
 ## Features
@@ -19,7 +19,6 @@ This dashboard was developed as an individual extension of a group research proj
 - NumPy
 - Scikit-learn
 - Matplotlib
-- Joblib
 
 ---
 
@@ -31,4 +30,4 @@ Open Anaconda Prompt and navigate to the project folder.
 ## Step 3 - run the app
 type as streamlit run app.py
 
-## then it will open the dashboard
+## Then it will open the dashboard
